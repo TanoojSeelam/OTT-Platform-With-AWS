@@ -5,14 +5,14 @@ A profound project for cloud users developed using AWS.
 
 ## Requirements
 
-'''sh
+```sh
  Appachi server
  Visual studio or Sublime text
  PhP
  AWS Account
  Xampp for Appachi controling
  Database (phpmyadmin)
-'''
+```
 
 ## Procedure
 
